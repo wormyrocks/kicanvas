@@ -2,9 +2,9 @@ name: Build, lint, & test
 
 on:
   push:
-    branches: main
+    branches: asdf
   pull_request:
-    branches: main
+    branches: asdf
 
 jobs:
   test:
