@@ -263,7 +263,6 @@ export class Font {
                     P.atom("bold"),
                     P.atom("italic"),
                     P.pair("line_spacing", T.number),
-                    P.color(),
                 ),
             );
 
